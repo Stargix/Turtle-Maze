@@ -1,3 +1,5 @@
+Sergi i Wei
+
 ROS-pkg for maze solving
 
 maze_script.cpp -> avoid obstacles
