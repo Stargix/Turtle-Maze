@@ -1,0 +1,5 @@
+<launch>
+    <!-- Final1 launch file -->
+    <node pkg="turtle_maze" type="maze_script" name="laberint" output="screen">
+    </node>
+</launch>

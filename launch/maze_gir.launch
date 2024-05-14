@@ -1,0 +1,5 @@
+<launch>
+    <!-- Final1 launch file -->
+    <node pkg="turtle_maze" type="maze_gir" name="maze_pub" output="screen">
+    </node>
+</launch>
