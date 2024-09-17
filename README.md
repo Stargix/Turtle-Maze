@@ -16,8 +16,6 @@ have wider walls
 
 ## Video Tutorial
 
-Mira el video tutorial en [YouTube]([https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://www.youtube.com/watch?v=nmDmGF7Jf9s))
-
-[![Alt text](https://img.youtube.com/vi/nmDmGF7Jf9s/0.jpg)](https://www.youtube.com/watch?v=nmDmGF7Jf9s)
+Mira el video tutorial en [![Alt text](https://img.youtube.com/vi/nmDmGF7Jf9s/0.jpg)](https://www.youtube.com/watch?v=nmDmGF7Jf9s)
 
 
