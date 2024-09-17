@@ -1,7 +1,18 @@
-Sergi i Wei
+# Turtle Maze
+A ROS TurtleBot maze solver with gzmaze
 
-ROS-pkg for maze solving
+# Description
+The program consists in a simulated Turtlebot that arrives to the center of a closed maze
+following walls with responsive angular velocity
 
-maze_script.cpp -> avoid obstacles
+# Files
+The c++ files where tries that didn't worked as planned
+  - maze_script.cpp -> avoid obstacles
+  - maze_gir.cpp -> 90º navigation
 
-maze_gir.cpp -> 90º navigation
+# Gzmaze
+There gazebo worlds were created with the pluggin gzmaze which was modified to 
+have wider walls
+
+
+
