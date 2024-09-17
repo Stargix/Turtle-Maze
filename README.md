@@ -14,5 +14,5 @@ The c++ files where tries that didn't worked as planned
 There gazebo worlds were created with the pluggin gzmaze which was modified to 
 have wider walls
 
-![Maze_solver](https://youtu.be/nmDmGF7Jf9s)
+![Maze_solver]([https://youtu.be/nmDmGF7Jf9s](https://www.youtube.com/watch?v=nmDmGF7Jf9s))
 
