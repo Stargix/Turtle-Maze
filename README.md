@@ -2,7 +2,7 @@
 A ROS TurtleBot maze solver with gzmaze
 
 # Description
-The program consists in a simulated Turtlebot that arrives to the center of a closed maze
+The program consists in a simulated Turtlebot that reaches the center of a closed maze
 following walls with responsive angular velocity
 
 # Files
@@ -11,7 +11,7 @@ The c++ files where tries that didn't worked as planned
   - maze_gir.cpp -> 90º navigation
 
 # Gzmaze
-There gazebo worlds were created with the pluggin gzmaze which was modified to 
+The gazebo worlds were created with the pluggin gzmaze which was modified to 
 have wider walls
 
 # Video
